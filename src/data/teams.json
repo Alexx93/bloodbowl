@@ -1,0 +1,2888 @@
+[
+  {
+    "name": "Amazons",
+    "description": "Amazons have long been a fan favourite in Blood Bowl – acrobatic athletes honed by their jungle home, who can compete against the very best teams in the game. Their exceptional blend of agility, tactical prowess, and penchant for violence means they are ideally suited for success on the gridiron!",
+    "players": [
+      {
+        "position": "Eagle Warrior Linemen",
+        "qty": "0-16",
+        "cost": 50,
+        "stats": [
+          {
+            "ma": 6,
+            "st": 3,
+            "ag": "3+",
+            "pa": "4+",
+            "av": "8+"
+          }
+        ],
+        "skills": [
+          "Dodge"
+        ]
+      },
+      {
+        "position": "Python Warrior Throwers",
+        "qty": "0-2",
+        "cost": 80,
+        "stats": [
+          {
+            "ma": 6,
+            "st": 3,
+            "ag": "3+",
+            "pa": "3+",
+            "av": "8+"
+          }
+        ],
+        "skills": [
+          "Dodge",
+          "On the Ball",
+          "Pass",
+          "Safe Pass"
+        ]
+      },
+      {
+        "position": "Piranha Warrior Blitzers",
+        "qty": "0-2",
+        "cost": 90,
+        "stats": [
+          {
+            "ma": 7,
+            "st": 3,
+            "ag": "3+",
+            "pa": "5+",
+            "av": "8+"
+          }
+        ],
+        "skills": [
+          "Dodge",
+          "Hit and Run",
+          "Jump Up"
+        ]
+      },
+      {
+        "position": "Jaguar Warrior Blockers",
+        "qty": "0-2",
+        "cost": 110,
+        "stats": [
+          {
+            "ma": 6,
+            "st": 4,
+            "ag": "3+",
+            "pa": "5+",
+            "av": "9+"
+          }
+        ],
+        "skills": [
+          "Defensive",
+          "Dodge"
+        ]
+      }
+    ],
+    "rerolls": {
+      "cost": 60,
+      "qty": "0-8"
+    },
+    "apothecary": true,
+    "tier": 1
+  },
+  {
+    "name": "Black Orc",
+    "description": "",
+    "players": [
+      {
+        "position": "Goblin Bruiser",
+        "qty": "0-12",
+        "cost": 45,
+        "stats": [
+          {
+            "ma": 6,
+            "st": 2,
+            "ag": "3+",
+            "pa": "4+",
+            "av": "8+"
+          }
+        ],
+        "skills": [
+          "Dodge",
+          "Right Stuff",
+          "Stunty",
+          "Thick Skull"
+        ]
+      },
+      {
+        "position": "Black Orcs",
+        "qty": "0-6",
+        "cost": 90,
+        "stats": [
+          {
+            "ma": 4,
+            "st": 4,
+            "ag": "4+",
+            "pa": "5+",
+            "av": "10+"
+          }
+        ],
+        "skills": [
+          "Brawler Grab"
+        ]
+      },
+      {
+        "position": "Trained Troll",
+        "qty": "0-1",
+        "cost": 115,
+        "stats": [
+          {
+            "ma": 4,
+            "st": 5,
+            "ag": "5+",
+            "pa": "5+",
+            "av": "10+"
+          }
+        ],
+        "skills": [
+          "Always Hungry",
+          "Loner (3+)",
+          "Mighty Blow (+1)",
+          "Projectile Vomit",
+          "Really Stupid",
+          "Regeneration",
+          "Throw Team Mate"
+        ]
+      }
+    ],
+    "rerolls": {
+      "cost": 60,
+      "qty": "0-8"
+    },
+    "apothecary": true,
+    "tier": 2
+  },
+  {
+    "name": "Chaos Chosen",
+    "description": "",
+    "players": [
+      {
+        "position": "Beastman",
+        "qty": "0-16",
+        "cost": 60,
+        "stats": [
+          {
+            "ma": 6,
+            "st": 3,
+            "ag": "3+",
+            "pa": "4+",
+            "av": "9+"
+          }
+        ],
+        "skills": [
+          "Horns"
+        ]
+      },
+      {
+        "position": "Choosen Blockers",
+        "qty": "0-4",
+        "cost": 100,
+        "stats": [
+          {
+            "ma": 5,
+            "st": 4,
+            "ag": "3+",
+            "pa": "5+",
+            "av": "10+"
+          }
+        ]
+      },
+      {
+        "position": "Chaos Troll",
+        "qty": "0-1",
+        "cost": 115,
+        "stats": [
+          {
+            "ma": 4,
+            "st": 5,
+            "ag": "5+",
+            "pa": "5+",
+            "av": "10+"
+          }
+        ],
+        "skills": [
+          "Always Hungry",
+          "Loner (4+)",
+          "Mighty Blow (+1)",
+          "Projectile Vomit",
+          "Really Stupid",
+          "Regeneration",
+          "Throw Team Mate"
+        ],
+        "limit": true
+      },
+      {
+        "position": "Chaos Ogre",
+        "qty": "0-1",
+        "cost": 140,
+        "stats": [
+          {
+            "ma": 5,
+            "st": 5,
+            "ag": "4+",
+            "pa": "5+",
+            "av": "10+"
+          }
+        ],
+        "skills": [
+          "Bone Head",
+          "Loner (4+)",
+          "Mighty Blow (+1)",
+          "Thick Skull",
+          "Throw Team Mate"
+        ],
+        "limit": true
+      },
+      {
+        "position": "Minotaur",
+        "qty": "0-1",
+        "cost": 150,
+        "stats": [
+          {
+            "ma": 5,
+            "st": 5,
+            "ag": "4+",
+            "pa": "-",
+            "av": "9+"
+          }
+        ],
+        "skills": [
+          "Loner (4+)",
+          "Frenzy",
+          "Horns",
+          "Mighty Blow (+1)",
+          "Thick Skull",
+          "Unchannelled Fury"
+        ],
+        "limit": true
+      }
+    ],
+    "rerolls": {
+      "cost": 60,
+      "qty": "0-8"
+    },
+    "apothecary": true,
+    "limit": "*A Chaos Choosen team may include a single Big Guy from the above",
+    "tier": 2
+  },
+  {
+    "name": "Chaos Dwarf",
+    "description": "",
+    "players": [
+      {
+        "position": "Hobgoblin",
+        "qty": "0-16",
+        "cost": 40,
+        "stats": [
+          {
+            "ma": 6,
+            "st": 3,
+            "ag": "3+",
+            "pa": "4+",
+            "av": "8+"
+          }
+        ]
+      },
+      {
+        "position": "Chaos Dwarf",
+        "qty": "0-6",
+        "cost": 70,
+        "stats": [
+          {
+            "ma": 4,
+            "st": 3,
+            "ag": "4+",
+            "pa": "6+",
+            "av": "10+"
+          }
+        ],
+        "skills": [
+          "Block",
+          "Tackle",
+          "Thick Skull"
+        ]
+      },
+      {
+        "position": "Bull Centaur",
+        "qty": "0-2",
+        "cost": 130,
+        "stats": [
+          {
+            "ma": 6,
+            "st": 4,
+            "ag": "4+",
+            "pa": "6+",
+            "av": "10+"
+          }
+        ],
+        "skills": [
+          "Sprint",
+          "Sure Feet",
+          "Thick Skull"
+        ]
+      },
+      {
+        "position": "Enslaved Minotaur",
+        "qty": "0-1",
+        "cost": 150,
+        "stats": [
+          {
+            "ma": 5,
+            "st": 5,
+            "ag": "4+",
+            "pa": "-",
+            "av": "9+"
+          }
+        ],
+        "skills": [
+          "Animal Savagery",
+          "Frenzy",
+          "Horns",
+          "Loner (4+)",
+          "Mighty Blow (+1)",
+          "Thick Skull"
+        ]
+      }
+    ],
+    "rerolls": {
+      "cost": 70,
+      "qty": "0-8"
+    },
+    "apothecary": true
+  },
+  {
+    "name": "Chaos Renegade",
+    "description": "",
+    "players": [
+      {
+        "position": "Lineman",
+        "qty": "0-12",
+        "cost": 50,
+        "stats": [
+          {
+            "ma": 6,
+            "st": 3,
+            "ag": "3+",
+            "pa": "4+",
+            "av": "9+"
+          }
+        ]
+      },
+      {
+        "position": "Thrower",
+        "qty": "0-1",
+        "cost": 75,
+        "stats": [
+          {
+            "ma": 6,
+            "st": 3,
+            "ag": "3+",
+            "pa": "3+",
+            "av": "9+"
+          }
+        ],
+        "skills": [
+          "Animosity (all team-mates)",
+          "Pass",
+          "Safe Pair of Hands"
+        ]
+      },
+      {
+        "position": "Goblin",
+        "qty": "0-1",
+        "cost": 40,
+        "stats": [
+          {
+            "ma": 6,
+            "st": 2,
+            "ag": "3+",
+            "pa": "4+",
+            "av": "8+"
+          }
+        ],
+        "skills": [
+          "Animosity (all team-mates)",
+          "Dodge",
+          "Right Stuff",
+          "Stunty"
+        ]
+      },
+      {
+        "position": "Orc",
+        "qty": "0-1",
+        "cost": 50,
+        "stats": [
+          {
+            "ma": 5,
+            "st": 3,
+            "ag": "3+",
+            "pa": "5+",
+            "av": "10+"
+          }
+        ],
+        "skills": [
+          "Animosity (all team-mates)"
+        ]
+      },
+      {
+        "position": "Skaven",
+        "qty": "0-1",
+        "cost": 50,
+        "stats": [
+          {
+            "ma": 7,
+            "st": 3,
+            "ag": "3+",
+            "pa": "4+",
+            "av": "8+"
+          }
+        ],
+        "skills": [
+          "Animosity (all team-mates)"
+        ]
+      },
+      {
+        "position": "Dark Elf",
+        "qty": "0-1",
+        "cost": 75,
+        "stats": [
+          {
+            "ma": 6,
+            "st": 3,
+            "ag": "2+",
+            "pa": "3+",
+            "av": "9+"
+          }
+        ],
+        "skills": [
+          "Animosity (all team-mates)"
+        ]
+      },
+      {
+        "position": "Renegade Troll",
+        "qty": "0-1",
+        "cost": 115,
+        "stats": [
+          {
+            "ma": 4,
+            "st": 5,
+            "ag": "5+",
+            "pa": "5+",
+            "av": "10+"
+          }
+        ],
+        "skills": [
+          "Always Hungry, Loner (4+)",
+          "Mighty Blow (+1)",
+          "Projectile Vomit",
+          "Really Stupid",
+          "Regeneration",
+          "Throw Team Mate"
+        ]
+      },
+      {
+        "position": "Renegade Ogre",
+        "qty": "0-1",
+        "cost": 140,
+        "stats": [
+          {
+            "ma": 5,
+            "st": 5,
+            "ag": "4+",
+            "pa": "5+",
+            "av": "10+"
+          }
+        ],
+        "skills": [
+          "Bone Head",
+          "Loner (4+)",
+          "Mighty Blow (+1)",
+          "Thick Skull",
+          "Throw Team Mate"
+        ]
+      },
+      {
+        "position": "Renegade Minotaur",
+        "qty": "0-1",
+        "cost": 150,
+        "stats": [
+          {
+            "ma": 5,
+            "st": 5,
+            "ag": "4+",
+            "pa": "-",
+            "av": "9+"
+          }
+        ],
+        "skills": [
+          "Loner (4+)",
+          "Frenzy",
+          "Horns",
+          "Mighty Blow (+1)",
+          "Thick Skull",
+          "Unchannelled Fury"
+        ]
+      },
+      {
+        "position": "Renegade Rat Ogre",
+        "qty": "0-1",
+        "cost": 150,
+        "stats": [
+          {
+            "ma": 6,
+            "st": 5,
+            "ag": "4+",
+            "pa": "-",
+            "av": "9+"
+          }
+        ],
+        "skills": [
+          "Animal Savagery",
+          "Frenzy",
+          "Loner (4+)",
+          "Mighty Blow (+1)",
+          "Prehensile Tail"
+        ]
+      }
+    ],
+    "rerolls": {
+      "cost": 70,
+      "qty": "0-8"
+    },
+    "apothecary": true
+  },
+  {
+    "name": "Dark Elf",
+    "description": "",
+    "players": [
+      {
+        "position": "Linemen",
+        "qty": "0-12",
+        "cost": 70,
+        "stats": [
+          {
+            "ma": 6,
+            "st": 3,
+            "ag": "2+",
+            "pa": "4+",
+            "av": "9+"
+          }
+        ]
+      },
+      {
+        "position": "Runner",
+        "qty": "0-2",
+        "cost": 80,
+        "stats": [
+          {
+            "ma": 7,
+            "st": 3,
+            "ag": "2+",
+            "pa": "3+",
+            "av": "8+"
+          }
+        ],
+        "skills": [
+          "Dump-Off"
+        ]
+      },
+      {
+        "position": "Blitzer",
+        "qty": "0-4",
+        "cost": 100,
+        "stats": [
+          {
+            "ma": 7,
+            "st": 3,
+            "ag": "2+",
+            "pa": "4+",
+            "av": "9+"
+          }
+        ],
+        "skills": [
+          "Block"
+        ]
+      },
+      {
+        "position": "Assassin",
+        "qty": "0-2",
+        "cost": 85,
+        "stats": [
+          {
+            "ma": 7,
+            "st": 3,
+            "ag": "2+",
+            "pa": "5+",
+            "av": "8+"
+          }
+        ],
+        "skills": [
+          "Dodge",
+          "Frenzy",
+          "Jump Up"
+        ]
+      }
+    ],
+    "rerolls": {
+      "cost": 50,
+      "qty": "0-8"
+    },
+    "apothecary": true
+  },
+  {
+    "name": "Dwarf",
+    "description": "",
+    "players": [
+      {
+        "position": "Linemen",
+        "qty": "0-12",
+        "cost": 70,
+        "stats": [
+          {
+            "ma": 4,
+            "st": 3,
+            "ag": "4+",
+            "pa": "5+",
+            "av": "10+"
+          }
+        ],
+        "skills": [
+          "Block",
+          "Tackle",
+          "Thick Skull"
+        ]
+      },
+      {
+        "position": "Runner",
+        "qty": "0-2",
+        "cost": 85,
+        "stats": [
+          {
+            "ma": 6,
+            "st": 3,
+            "ag": "6+",
+            "pa": "4+",
+            "av": "9+"
+          }
+        ],
+        "skills": [
+          "Sure Hands",
+          "Thick Skull"
+        ]
+      },
+      {
+        "position": "Blitzer",
+        "qty": "0-2",
+        "cost": 80,
+        "stats": [
+          {
+            "ma": 5,
+            "st": 3,
+            "ag": "5+",
+            "pa": "4+",
+            "av": "10+"
+          }
+        ],
+        "skills": [
+          "Block",
+          "Thick Skull"
+        ]
+      },
+      {
+        "position": "Troll Slayer",
+        "qty": "0-2",
+        "cost": 170,
+        "stats": [
+          {
+            "ma": 4,
+            "st": 7,
+            "ag": "5+",
+            "pa": "-",
+            "av": "11+"
+          }
+        ],
+        "skills": [
+          "Break Tackle",
+          "Dirty Player (+2)",
+          "Juggernaut",
+          "Loner (5+)",
+          "Mighty Blow (+1)",
+          "No Hands",
+          "Secret Weapon",
+          "Stand Firm"
+        ]
+      }
+    ],
+    "rerolls": {
+      "cost": 50,
+      "qty": "0-8"
+    },
+    "apothecary": true
+  },
+  {
+    "name": "Elven Union",
+    "description": "",
+    "players": [
+      {
+        "position": "Linemen",
+        "qty": "0-12",
+        "cost": 60,
+        "stats": [
+          {
+            "ma": 6,
+            "st": 3,
+            "ag": "2+",
+            "pa": "4+",
+            "av": "8+"
+          }
+        ]
+      },
+      {
+        "position": "Thrower",
+        "qty": "0-2",
+        "cost": 75,
+        "stats": [
+          {
+            "ma": 6,
+            "st": 3,
+            "ag": "2+",
+            "pa": "2+",
+            "av": "8+"
+          }
+        ],
+        "skills": [
+          "Pass"
+        ]
+      },
+      {
+        "position": "Catcher",
+        "qty": "0-4",
+        "cost": 100,
+        "stats": [
+          {
+            "ma": 8,
+            "st": 3,
+            "ag": "2+",
+            "pa": "4+",
+            "av": "8+"
+          }
+        ],
+        "skills": [
+          "Catch",
+          "Nerves of Steel"
+        ]
+      },
+      {
+        "position": "Blitzers",
+        "qty": "0-2",
+        "cost": 115,
+        "stats": [
+          {
+            "ma": 7,
+            "st": 3,
+            "ag": "2+",
+            "pa": "3+",
+            "av": "9+"
+          }
+        ],
+        "skills": [
+          "Block",
+          "Side Step"
+        ]
+      }
+    ],
+    "rerolls": {
+      "cost": 50,
+      "qty": "0-8"
+    },
+    "apothecary": true
+  },
+  {
+    "name": "Goblin",
+    "description": "",
+    "players": [
+      {
+        "position": "Linemen",
+        "qty": "0-12",
+        "cost": 40,
+        "stats": [
+          {
+            "ma": 6,
+            "st": 2,
+            "ag": "3+",
+            "pa": "4+",
+            "av": "8+"
+          }
+        ],
+        "skills": [
+          "Dodge",
+          "Right Stuff",
+          "Stunty"
+        ]
+      },
+      {
+        "position": "Bomma",
+        "qty": "0-1",
+        "cost": 45,
+        "stats": [
+          {
+            "ma": 6,
+            "st": 2,
+            "ag": "3+",
+            "pa": "4+",
+            "av": "8+"
+          }
+        ],
+        "skills": [
+          "Bombardier",
+          "Dodge",
+          "Secret Weapon",
+          "Stunty"
+        ]
+      },
+      {
+        "position": "Looney",
+        "qty": "0-1",
+        "cost": 40,
+        "stats": [
+          {
+            "ma": 6,
+            "st": 2,
+            "ag": "3+",
+            "pa": "-",
+            "av": "8+"
+          }
+        ],
+        "skills": [
+          "Chainsaw",
+          "Secret Weapon",
+          "Stunty"
+        ]
+      },
+      {
+        "position": "Fanatic",
+        "qty": "0-1",
+        "cost": 70,
+        "stats": [
+          {
+            "ma": 3,
+            "st": 7,
+            "ag": "3+",
+            "pa": "-",
+            "av": "8+"
+          }
+        ],
+        "skills": [
+          "Ball & Chain",
+          "No Hands",
+          "Secret Weapon",
+          "Stunty"
+        ]
+      },
+      {
+        "position": "Pogoer",
+        "qty": "0-1",
+        "cost": 75,
+        "stats": [
+          {
+            "ma": 7,
+            "st": 2,
+            "ag": "3+",
+            "pa": "5+",
+            "av": "8+"
+          }
+        ],
+        "skills": [
+          "Dodge",
+          "Pogo Stick",
+          "Stunty"
+        ]
+      },
+      {
+        "position": "Ooligan",
+        "qty": "0-1",
+        "cost": 65,
+        "stats": [
+          {
+            "ma": 6,
+            "st": 2,
+            "ag": "3+",
+            "pa": "6+",
+            "av": "8+"
+          }
+        ],
+        "skills": [
+          "Dirty Player (+1)",
+          "Disturbing Presence",
+          "Dodge",
+          "Right Stuff",
+          "Stunty"
+        ]
+      },
+      {
+        "position": "Doom Diver",
+        "qty": "0-1",
+        "cost": 60,
+        "stats": [
+          {
+            "ma": 6,
+            "st": 2,
+            "ag": "3+",
+            "pa": "6+",
+            "av": "8+"
+          }
+        ],
+        "skills": [
+          "Right Stuff",
+          "Stunty",
+          "Swoop"
+        ]
+      },
+      {
+        "position": "Trained Troll",
+        "qty": "0-1",
+        "cost": 115,
+        "stats": [
+          {
+            "ma": 4,
+            "st": 5,
+            "ag": "5+",
+            "pa": "5+",
+            "av": "10+"
+          }
+        ],
+        "skills": [
+          "Always Hungry",
+          "Loner (3+)",
+          "Mighty Blow (+1)",
+          "Projectile Vomit",
+          "Really Stupid",
+          "Regeneration",
+          "Throw Team Mate"
+        ]
+      }
+    ],
+    "rerolls": {
+      "cost": 60,
+      "qty": "0-8"
+    },
+    "apothecary": true
+  },
+  {
+    "name": "Halfling",
+    "description": "",
+    "players": [
+      {
+        "position": "Hopeful",
+        "qty": "0-12",
+        "cost": 30,
+        "stats": [
+          {
+            "ma": 5,
+            "st": 2,
+            "ag": "3+",
+            "pa": "4+",
+            "av": "7+"
+          }
+        ],
+        "skills": [
+          "Dodge",
+          "Right Stuff",
+          "Stunty"
+        ]
+      },
+      {
+        "position": "Hefti",
+        "qty": "0-2",
+        "cost": 50,
+        "stats": [
+          {
+            "ma": 5,
+            "st": 2,
+            "ag": "3+",
+            "pa": "3+",
+            "av": "8+"
+          }
+        ],
+        "skills": [
+          "Dodge",
+          "Fend",
+          "Stunty"
+        ]
+      },
+      {
+        "position": "Catcher",
+        "qty": "0-2",
+        "cost": 55,
+        "stats": [
+          {
+            "ma": 5,
+            "st": 2,
+            "ag": "3+",
+            "pa": "5+",
+            "av": "7+"
+          }
+        ],
+        "skills": [
+          "Catch",
+          "Dodge",
+          "Right Stuff",
+          "Sprint",
+          "Stunty"
+        ]
+      },
+      {
+        "position": "Altern Forest Treeman",
+        "qty": "0-2",
+        "cost": 120,
+        "stats": [
+          {
+            "ma": 2,
+            "st": 6,
+            "ag": "5+",
+            "pa": "5+",
+            "av": "11+"
+          }
+        ],
+        "skills": [
+          "Mighty Blow (+1)",
+          "Stand Firm",
+          "Strong Arm",
+          "Take Root",
+          "Thick Skull",
+          "Throw Team Mate",
+          "Timmm-ber!"
+        ]
+      }
+    ],
+    "rerolls": {
+      "cost": 60,
+      "qty": "0-8"
+    },
+    "apothecary": true
+  },
+  {
+    "name": "High Helf",
+    "description": "",
+    "players": [
+      {
+        "position": "Lineman",
+        "qty": "0-16",
+        "cost": 70,
+        "stats": [
+          {
+            "ma": 6,
+            "st": 3,
+            "ag": "2+",
+            "pa": "4+",
+            "av": "9+"
+          }
+        ]
+      },
+      {
+        "position": "Thrower",
+        "qty": "0-2",
+        "cost": 100,
+        "stats": [
+          {
+            "ma": 6,
+            "st": 3,
+            "ag": "2+",
+            "pa": "2+",
+            "av": "9+"
+          }
+        ],
+        "skills": [
+          "Cloud Burster",
+          "Pass",
+          "Safe Pass"
+        ]
+      },
+      {
+        "position": "Catcher",
+        "qty": "0-4",
+        "cost": 90,
+        "stats": [
+          {
+            "ma": 8,
+            "st": 3,
+            "ag": "2+",
+            "pa": "5+",
+            "av": "8+"
+          }
+        ],
+        "skills": [
+          "Catch"
+        ]
+      },
+      {
+        "position": "Blitzer",
+        "qty": "0-2",
+        "cost": 100,
+        "stats": [
+          {
+            "ma": 7,
+            "st": 3,
+            "ag": "2+",
+            "pa": "4+",
+            "av": "9+"
+          }
+        ],
+        "skills": [
+          "Block"
+        ]
+      }
+    ],
+    "rerolls": {
+      "cost": 50,
+      "qty": "0-8"
+    },
+    "apothecary": true
+  },
+  {
+    "name": "Human",
+    "description": "",
+    "players": [
+      {
+        "position": "Lineman",
+        "qty": "0-16",
+        "cost": 50,
+        "stats": [
+          {
+            "ma": 6,
+            "st": 3,
+            "ag": "3+",
+            "pa": "4+",
+            "av": "9+"
+          }
+        ]
+      },
+      {
+        "position": "Thrower",
+        "qty": "0-2",
+        "cost": 80,
+        "stats": [
+          {
+            "ma": 6,
+            "st": 3,
+            "ag": "3+",
+            "pa": "2+",
+            "av": "9+"
+          }
+        ],
+        "skills": [
+          "Pass",
+          "Sure Hand"
+        ]
+      },
+      {
+        "position": "Catcher",
+        "qty": "0-4",
+        "cost": 65,
+        "stats": [
+          {
+            "ma": 8,
+            "st": 2,
+            "ag": "3+",
+            "pa": "5+",
+            "av": "8+"
+          }
+        ],
+        "skills": [
+          "Catch",
+          "Dodge"
+        ]
+      },
+      {
+        "position": "Blitzer",
+        "qty": "0-4",
+        "cost": 85,
+        "stats": [
+          {
+            "ma": 7,
+            "st": 3,
+            "ag": "3+",
+            "pa": "4+",
+            "av": "9+"
+          }
+        ],
+        "skills": [
+          "Block"
+        ]
+      },
+      {
+        "position": "Halfling",
+        "qty": "0-3",
+        "cost": 30,
+        "stats": [
+          {
+            "ma": 5,
+            "st": 2,
+            "ag": "3+",
+            "pa": "4+",
+            "av": "7+"
+          }
+        ],
+        "skills": [
+          "Dodge",
+          "Right Stuff",
+          "Stunty"
+        ]
+      },
+      {
+        "position": "Ogre",
+        "qty": "0-4",
+        "cost": 85,
+        "stats": [
+          {
+            "ma": 5,
+            "st": 5,
+            "ag": "4+",
+            "pa": "5+",
+            "av": "10+"
+          }
+        ],
+        "skills": [
+          "Bone Head",
+          "Loner (4+)",
+          "Mighty Blow (+1)",
+          "Thick Skull",
+          "Throw Team Mate"
+        ]
+      }
+    ],
+    "rerolls": {
+      "cost": 50,
+      "qty": "0-8"
+    },
+    "apothecary": true
+  },
+  {
+    "name": "Imperial Nobility",
+    "description": "",
+    "players": [
+      {
+        "position": "Retainer Lineman",
+        "qty": "0-12",
+        "cost": 45,
+        "stats": [
+          {
+            "ma": 6,
+            "st": 3,
+            "ag": "4+",
+            "pa": "4+",
+            "av": "8+"
+          }
+        ],
+        "skills": [
+          "Fend"
+        ]
+      },
+      {
+        "position": "Thrower",
+        "qty": "0-2",
+        "cost": 75,
+        "stats": [
+          {
+            "ma": 6,
+            "st": 3,
+            "ag": "3+",
+            "pa": "3+",
+            "av": "9+"
+          }
+        ],
+        "skills": [
+          "Pass",
+          "Running Pass"
+        ]
+      },
+      {
+        "position": "Noble Blitzer",
+        "qty": "0-2",
+        "cost": 105,
+        "stats": [
+          {
+            "ma": 7,
+            "st": 3,
+            "ag": "3+",
+            "pa": "4+",
+            "av": "9+"
+          }
+        ],
+        "skills": [
+          "Block",
+          "Catch"
+        ]
+      },
+      {
+        "position": "Bodyguards",
+        "qty": "0-4",
+        "cost": 90,
+        "stats": [
+          {
+            "ma": 6,
+            "st": 3,
+            "ag": "3+",
+            "pa": "5+",
+            "av": "9+"
+          }
+        ],
+        "skills": [
+          "Stand Firm",
+          "Wrestle"
+        ]
+      },
+      {
+        "position": "Ogre",
+        "qty": "0-1",
+        "cost": 140,
+        "stats": [
+          {
+            "ma": 5,
+            "st": 5,
+            "ag": "4+",
+            "pa": "5+",
+            "av": "10+"
+          }
+        ],
+        "skills": [
+          "Bone Head",
+          "Loner (4+)",
+          "Mighty Blow (+1)",
+          "Thick Skull",
+          "Throw Team Mate"
+        ]
+      }
+    ],
+    "rerolls": {
+      "cost": 70,
+      "qty": "0-8"
+    },
+    "apothecary": true
+  },
+  {
+    "name": "Khorne",
+    "description": "",
+    "players": [
+      {
+        "position": "Bloodborn Marauder Linemen",
+        "qty": "0-16",
+        "cost": 50,
+        "stats": [
+          {
+            "ma": 6,
+            "st": 3,
+            "ag": "3+",
+            "pa": "4+",
+            "av": "8+"
+          }
+        ],
+        "skills": [
+          "Frenzy"
+        ]
+      },
+      {
+        "position": "Khorngors",
+        "qty": "0-4",
+        "cost": 70,
+        "stats": [
+          {
+            "ma": 6,
+            "st": 3,
+            "ag": "3+",
+            "pa": "4+",
+            "av": "9+"
+          }
+        ],
+        "skills": [
+          "Pass",
+          "Running Pass"
+        ]
+      },
+      {
+        "position": "Bloodseekers",
+        "qty": "0-4",
+        "cost": 110,
+        "stats": [
+          {
+            "ma": 5,
+            "st": 4,
+            "ag": "4+",
+            "pa": "6+",
+            "av": "10+"
+          }
+        ],
+        "skills": [
+          "Frenzy"
+        ]
+      },
+      {
+        "position": "Bloodspawn",
+        "qty": "0-1",
+        "cost": 160,
+        "stats": [
+          {
+            "ma": 5,
+            "st": 5,
+            "ag": "4+",
+            "pa": "-",
+            "av": "9+"
+          }
+        ],
+        "skills": [
+          "Claws",
+          "Frenzy",
+          "Loner (4+)",
+          "Mighty Blow (+1)",
+          "Unchannelled Fury"
+        ]
+      }
+    ],
+    "rerolls": {
+      "cost": 60,
+      "qty": "0-8"
+    },
+    "apothecary": true
+  },
+  {
+    "name": "Lizardmen",
+    "description": "",
+    "players": [
+      {
+        "position": "Skink",
+        "qty": "0-16",
+        "cost": 60,
+        "stats": [
+          {
+            "ma": 8,
+            "st": 2,
+            "ag": "3+",
+            "pa": "4+",
+            "av": "8+"
+          }
+        ],
+        "skills": [
+          "Frenzy"
+        ]
+      },
+      {
+        "position": "Chameleon Skink",
+        "qty": "0-2",
+        "cost": 70,
+        "stats": [
+          {
+            "ma": 7,
+            "st": 2,
+            "ag": "3+",
+            "pa": "3+",
+            "av": "8+"
+          }
+        ],
+        "skills": [
+          "Dodge",
+          "On the Ball",
+          "Shadowing",
+          "Stunty"
+        ]
+      },
+      {
+        "position": "Saurus",
+        "qty": "0-6",
+        "cost": 85,
+        "stats": [
+          {
+            "ma": 6,
+            "st": 4,
+            "ag": "5+",
+            "pa": "6+",
+            "av": "10+"
+          }
+        ]
+      },
+      {
+        "position": "Kroxigor",
+        "qty": "0-1",
+        "cost": 160,
+        "stats": [
+          {
+            "ma": 6,
+            "st": 5,
+            "ag": "5+",
+            "pa": "-",
+            "av": "10+"
+          }
+        ],
+        "skills": [
+          "Bone Head",
+          "Londer (4+)",
+          "Mighty Blow (+1)",
+          "Prehensile Tail",
+          "Thick Skull"
+        ]
+      }
+    ],
+    "rerolls": {
+      "cost": 70,
+      "qty": "0-8"
+    },
+    "apothecary": true
+  },
+  {
+    "name": "Necromantic Horror",
+    "description": "",
+    "players": [
+      {
+        "position": "Zombie",
+        "qty": "0-16",
+        "cost": 40,
+        "stats": [
+          {
+            "ma": 4,
+            "st": 3,
+            "ag": "4+",
+            "pa": "-",
+            "av": "9+"
+          }
+        ],
+        "skills": [
+          "Regeneration"
+        ]
+      },
+      {
+        "position": "Ghoul Runners",
+        "qty": "0-2",
+        "cost": 70,
+        "stats": [
+          {
+            "ma": 7,
+            "st": 3,
+            "ag": "3+",
+            "pa": "4+",
+            "av": "8+"
+          }
+        ],
+        "skills": [
+          "Dodge"
+        ]
+      },
+      {
+        "position": "Wraith",
+        "qty": "0-2",
+        "cost": 95,
+        "stats": [
+          {
+            "ma": 6,
+            "st": 3,
+            "ag": "3+",
+            "pa": "-",
+            "av": "9+"
+          }
+        ],
+        "skills": [
+          "Block",
+          "Foul Appearance",
+          "No Hands",
+          "Regeneration",
+          "Side Step"
+        ]
+      },
+      {
+        "position": "Werewolf",
+        "qty": "0-2",
+        "cost": 125,
+        "stats": [
+          {
+            "ma": 8,
+            "st": 3,
+            "ag": "3+",
+            "pa": "4+",
+            "av": "9+"
+          }
+        ],
+        "skills": [
+          "Claws",
+          "Frenzy",
+          "Regeneration"
+        ]
+      },
+      {
+        "position": "Flesh Golem",
+        "qty": "0-1",
+        "cost": 115,
+        "stats": [
+          {
+            "ma": 4,
+            "st": 4,
+            "ag": "4+",
+            "pa": "-",
+            "av": "10+"
+          }
+        ],
+        "skills": [
+          "Regeneration",
+          "Stand Firm",
+          "Thick Skull"
+        ]
+      }
+    ],
+    "rerolls": {
+      "cost": 70,
+      "qty": "0-8"
+    },
+    "apothecary": false
+  },
+  {
+    "name": "Norse",
+    "description": "",
+    "players": [
+      {
+        "position": "Norse Raider Lineman",
+        "qty": "0-16",
+        "cost": 50,
+        "stats": [
+          {
+            "ma": 6,
+            "st": 3,
+            "ag": "6+",
+            "pa": "4+",
+            "av": "8+"
+          }
+        ],
+        "skills": [
+          "Block",
+          "Drunkard",
+          "Thick Skull"
+        ]
+      },
+      {
+        "position": "Beer Boars",
+        "qty": "0-2",
+        "cost": 20,
+        "stats": [
+          {
+            "ma": 5,
+            "st": 1,
+            "ag": "3+",
+            "pa": "-",
+            "av": "6+"
+          }
+        ],
+        "skills": [
+          "Dodge",
+          "No Hands",
+          "Pick-me-up",
+          "Stunty",
+          "Titchy"
+        ]
+      },
+      {
+        "position": "Norse Berserker",
+        "qty": "0-2",
+        "cost": 90,
+        "stats": [
+          {
+            "ma": 6,
+            "st": 3,
+            "ag": "3+",
+            "pa": "5+",
+            "av": "8+"
+          }
+        ],
+        "skills": [
+          "Block",
+          "Frenzy",
+          "Jump Up"
+        ]
+      },
+      {
+        "position": "Valkyrie",
+        "qty": "0-2",
+        "cost": 95,
+        "stats": [
+          {
+            "ma": 7,
+            "st": 3,
+            "ag": "3+",
+            "pa": "3+",
+            "av": "8+"
+          }
+        ],
+        "skills": [
+          "Catch",
+          "Dauntless",
+          "Pass",
+          "Strip Ball"
+        ]
+      },
+      {
+        "position": "Ulfwerener",
+        "qty": "0-2",
+        "cost": 105,
+        "stats": [
+          {
+            "ma": 6,
+            "st": 4,
+            "ag": "4+",
+            "pa": "-",
+            "av": "9+"
+          }
+        ],
+        "skills": [
+          "Frenzy"
+        ]
+      },
+      {
+        "position": "Yhetee / Snow Troll",
+        "qty": "0-1",
+        "cost": 140,
+        "stats": [
+          {
+            "ma": 5,
+            "st": 5,
+            "ag": "4+",
+            "pa": "-",
+            "av": "9+"
+          }
+        ],
+        "skills": [
+          "Claws",
+          "Disturbing Presence",
+          "Frenzy",
+          "Loner (4+)",
+          "Unchannelled Fury"
+        ]
+      }
+    ],
+    "rerolls": {
+      "cost": 60,
+      "qty": "0-8"
+    },
+    "apothecary": true
+  },
+  {
+    "name": "Nurgle",
+    "description": "",
+    "players": [
+      {
+        "position": "Rotter",
+        "qty": "0-12",
+        "cost": 35,
+        "stats": [
+          {
+            "ma": 5,
+            "st": 3,
+            "ag": "4+",
+            "pa": "6+",
+            "av": "9+"
+          }
+        ],
+        "skills": [
+          "Decay",
+          "Plague Ridden"
+        ]
+      },
+      {
+        "position": "Pestigor",
+        "qty": "0-4",
+        "cost": 75,
+        "stats": [
+          {
+            "ma": 6,
+            "st": 3,
+            "ag": "3+",
+            "pa": "4+",
+            "av": "9+"
+          }
+        ],
+        "skills": [
+          "Horns",
+          "Plague Ridde",
+          "Regeneration"
+        ]
+      },
+      {
+        "position": "Bloater",
+        "qty": "0-4",
+        "cost": 115,
+        "stats": [
+          {
+            "ma": 4,
+            "st": 4,
+            "ag": "4+",
+            "pa": "6+",
+            "av": "10+"
+          }
+        ],
+        "skills": [
+          "Disturbing Presence",
+          "Foul Appearance",
+          "Plague Ridden",
+          "Regeneration"
+        ]
+      },
+      {
+        "position": "Rotspawn",
+        "qty": "0-1",
+        "cost": 140,
+        "stats": [
+          {
+            "ma": 4,
+            "st": 5,
+            "ag": "5+",
+            "pa": "-",
+            "av": "10+"
+          }
+        ],
+        "skills": [
+          "Disturbing Presence",
+          "Foul Appearance",
+          "Loner (4+)",
+          "Mighty Blow (+1)",
+          "Plague Ridden",
+          "Really Stupid",
+          "Regeneration",
+          "Tentacles"
+        ]
+      }
+    ],
+    "rerolls": {
+      "cost": 70,
+      "qty": "0-8"
+    },
+    "apothecary": false
+  },
+  {
+    "name": "Ogre",
+    "description": "",
+    "players": [
+      {
+        "position": "Gnoblar",
+        "qty": "0-16",
+        "cost": 15,
+        "stats": [
+          {
+            "ma": 5,
+            "st": 1,
+            "ag": "3+",
+            "pa": "5+",
+            "av": "6+"
+          }
+        ],
+        "skills": [
+          "Dodge",
+          "Right Stuff",
+          "Side Step Stunty",
+          "Titchy"
+        ]
+      },
+      {
+        "position": "Runt Punter",
+        "qty": "0-1",
+        "cost": 145,
+        "stats": [
+          {
+            "ma": 5,
+            "st": 5,
+            "ag": "4+",
+            "pa": "4+",
+            "av": "10+"
+          }
+        ],
+        "skills": [
+          "Bone Head",
+          "Kick Team Mate",
+          "Mighty Blow (+1)",
+          "Thick Skull"
+        ]
+      },
+      {
+        "position": "Ogre",
+        "qty": "0-5",
+        "cost": 140,
+        "stats": [
+          {
+            "ma": 5,
+            "st": 5,
+            "ag": "4+",
+            "pa": "5+",
+            "av": "10+"
+          }
+        ],
+        "skills": [
+          "Bone Head",
+          "Mighty Blow (+1)",
+          "Thick Skull",
+          "Throw Team Mate"
+        ]
+      }
+    ],
+    "rerolls": {
+      "cost": 70,
+      "qty": "0-8"
+    },
+    "apothecary": true
+  },
+  {
+    "name": "Old World Alliance",
+    "description": "The cities of the Old World are bustling metropoles, populated by all manner of different races. From Kislev in the cold north, to Estalia in the sweltering south, Humans build their homes, and to these flock Dwarfs, Halflings and more.",
+    "players": [
+      {
+        "position": "Human Lineman",
+        "qty": "0-12",
+        "cost": 50,
+        "stats": [
+          {
+            "ma": 6,
+            "st": 3,
+            "ag": "3+",
+            "pa": "4+",
+            "av": "9+"
+          }
+        ]
+      },
+      {
+        "position": "Human Thrower",
+        "qty": "0-1",
+        "cost": 80,
+        "stats": [
+          {
+            "ma": 6,
+            "st": 3,
+            "ag": "3+",
+            "pa": "3+",
+            "av": "9+"
+          }
+        ],
+        "skills": [
+          "Animosity (Dwarf and Halfling)",
+          "Pass",
+          "Sure Hands"
+        ]
+      },
+      {
+        "position": "Human Catcher",
+        "qty": "0-1",
+        "cost": 65,
+        "stats": [
+          {
+            "ma": 8,
+            "st": 2,
+            "ag": "3+",
+            "pa": "5+",
+            "av": "8+"
+          }
+        ],
+        "skills": [
+          "Animosity (Dwarf and Halfling)",
+          "Catch",
+          "Dodge"
+        ]
+      },
+      {
+        "position": "Human Blitzer",
+        "qty": "0-1",
+        "cost": 90,
+        "stats": [
+          {
+            "ma": 7,
+            "st": 3,
+            "ag": "3+",
+            "pa": "4+",
+            "av": "9+"
+          }
+        ],
+        "skills": [
+          "Animosity (Dwarf and Halfling)",
+          "Block"
+        ]
+      },
+      {
+        "position": "Dwarf Blocker",
+        "qty": "0-2",
+        "cost": 75,
+        "stats": [
+          {
+            "ma": 4,
+            "st": 3,
+            "ag": "4+",
+            "pa": "5+",
+            "av": "10+"
+          }
+        ],
+        "skills": [
+          "Arm Bar",
+          "Brawler",
+          "Loner (3+)",
+          "Thick Skull"
+        ]
+      },
+      {
+        "position": "Dwarf Runner",
+        "qty": "0-1",
+        "cost": 85,
+        "stats": [
+          {
+            "ma": 6,
+            "st": 3,
+            "ag": "3+",
+            "pa": "4+",
+            "av": "9+"
+          }
+        ],
+        "skills": [
+          "Loner (3+)",
+          "Sure Hands",
+          "Thick Skull"
+        ]
+      },
+      {
+        "position": "Dwarf Blitzer",
+        "qty": "0-1",
+        "cost": 80,
+        "stats": [
+          {
+            "ma": 5,
+            "st": 3,
+            "ag": "3+",
+            "pa": "4+",
+            "av": "10+"
+          }
+        ],
+        "skills": [
+          "Block",
+          "Loner (3+)",
+          "Thick Skull"
+        ]
+      },
+      {
+        "position": "Troll Slayer",
+        "qty": "0-1",
+        "cost": 95,
+        "stats": [
+          {
+            "ma": 5,
+            "st": 3,
+            "ag": "4+",
+            "pa": "-",
+            "av": "9+"
+          }
+        ],
+        "skills": [
+          "Block",
+          "Dauntless",
+          "Frenzy",
+          "Loner (3+)",
+          "Thick Skull"
+        ]
+      },
+      {
+        "position": "Halfling",
+        "qty": "0-1",
+        "cost": 50,
+        "stats": [
+          {
+            "ma": 5,
+            "st": 3,
+            "ag": "2+",
+            "pa": "4+",
+            "av": "7+"
+          }
+        ],
+        "skills": [
+          "Animosity (Dwarf and Human)",
+          "Dodge",
+          "Right Stuff",
+          "Stunty"
+        ]
+      },
+      {
+        "position": "Ogre",
+        "qty": "0-1",
+        "cost": 140,
+        "stats": [
+          {
+            "ma": 5,
+            "st": 5,
+            "ag": "5+",
+            "pa": "5+",
+            "av": "10+"
+          }
+        ],
+        "skills": [
+          "Bone Head",
+          "Loner (4+)",
+          "Mighty Blow (1+)",
+          "Thick Skull",
+          "Throw Team Mate"
+        ]
+      },
+      {
+        "position": "Altern Forest Treeman",
+        "qty": "0-1",
+        "cost": 120,
+        "stats": [
+          {
+            "ma": 2,
+            "st": 6,
+            "ag": "5+",
+            "pa": "5+",
+            "av": "11+"
+          }
+        ],
+        "skills": [
+          "Loner (4+)",
+          "Mighty Blow (+1)",
+          "Stand Firm",
+          "Strong Arm",
+          "Take Root",
+          "Thick Skull",
+          "Throw Team Mate",
+          "Timmm-ber!"
+        ]
+      }
+    ],
+    "rerolls": {
+      "cost": 70,
+      "qty": "0-8"
+    },
+    "apothecary": true
+  },
+  {
+    "name": "Orc",
+    "description": "Orcs have been playing Blood Bowl since the game was invented, and Orc teams such as the GougedEye and Severed Heads are amongst the best in the league. Orc teams are tough and hard-hitting, grinding down the opposition’s line to create gaps for their excellent Orc Blitzers to exploit.",
+    "players": [
+      {
+        "position": "Lineman",
+        "qty": "0-16",
+        "cost": 50,
+        "stats": [
+          {
+            "ma": 5,
+            "st": 3,
+            "ag": "3+",
+            "pa": "4+",
+            "av": "10+"
+          }
+        ],
+        "skills": [
+          "Animosity (Orc Linemen)"
+        ]
+      },
+      {
+        "position": "Thrower",
+        "qty": "0-2",
+        "cost": 65,
+        "stats": [
+          {
+            "ma": 5,
+            "st": 3,
+            "ag": "3+",
+            "pa": "3+",
+            "av": "9+"
+          }
+        ],
+        "skills": [
+          "Animosity (all team-mates)",
+          "Pass",
+          "Sure Hands"
+        ]
+      },
+      {
+        "position": "Blitzer",
+        "qty": "0-4",
+        "cost": 80,
+        "stats": [
+          {
+            "ma": 6,
+            "st": 3,
+            "ag": "3+",
+            "pa": "4+",
+            "av": "10+"
+          }
+        ],
+        "skills": [
+          "Animosity (all team-mates)",
+          "Block"
+        ]
+      },
+      {
+        "position": "Big Un",
+        "qty": "0-4",
+        "cost": 90,
+        "stats": [
+          {
+            "ma": 5,
+            "st": 4,
+            "ag": "4+",
+            "pa": "-",
+            "av": "10+"
+          }
+        ],
+        "skills": [
+          "Animosity (Big Uns)"
+        ]
+      },
+      {
+        "position": "Goblin",
+        "qty": "0-4",
+        "cost": 40,
+        "stats": [
+          {
+            "ma": 6,
+            "st": 2,
+            "ag": "3+",
+            "pa": "4+",
+            "av": "8+"
+          }
+        ],
+        "skills": [
+          "Dodge",
+          "Right Stuff",
+          "Stunty"
+        ]
+      },
+      {
+        "position": "Untrained Troll",
+        "qty": "0-1",
+        "cost": 115,
+        "stats": [
+          {
+            "ma": 4,
+            "st": 5,
+            "ag": "5+",
+            "pa": "5+",
+            "av": "10+"
+          }
+        ],
+        "skills": [
+          "Always Hungry",
+          "Loner (4+)",
+          "Mighty Blow (+1)",
+          "Projectile Vomit",
+          "Really Stupid",
+          "Regeneration",
+          "Throw Team Mate"
+        ]
+      }
+    ],
+    "rerolls": {
+      "cost": 60,
+      "qty": "0-8"
+    },
+    "apothecary": true
+  },
+  {
+    "name": "Shambling Undead",
+    "description": "In the Old World the dead do not rest easy. Vampires lurk in haunted castles, Necromancers seek to escape death by searching for forbidden knowledge, the Liche-lords rule over legions of corpses, and on the Blood Bowl field players who died long ago return to the scenes of their former glory and play Blood Bowl once again…",
+    "players": [
+      {
+        "position": "Skeleton",
+        "qty": "0-12",
+        "cost": 40,
+        "stats": [
+          {
+            "ma": 5,
+            "st": 3,
+            "ag": "4+",
+            "pa": "6+",
+            "av": "8+"
+          }
+        ],
+        "skills": [
+          "Regeneration",
+          "Thick Skull"
+        ]
+      },
+      {
+        "position": "Zombie",
+        "qty": "0-12",
+        "cost": 40,
+        "stats": [
+          {
+            "ma": 4,
+            "st": 3,
+            "ag": "4+",
+            "pa": "-",
+            "av": "9+"
+          }
+        ],
+        "skills": [
+          "Regeneration"
+        ]
+      },
+      {
+        "position": "Ghoul",
+        "qty": "0-4",
+        "cost": 75,
+        "stats": [
+          {
+            "ma": 7,
+            "st": 3,
+            "ag": "3+",
+            "pa": "4+",
+            "av": "8+"
+          }
+        ],
+        "skills": [
+          "Dodge"
+        ]
+      },
+      {
+        "position": "Wight",
+        "qty": "0-2",
+        "cost": 90,
+        "stats": [
+          {
+            "ma": 6,
+            "st": 3,
+            "ag": "3+",
+            "pa": "5+",
+            "av": "9+"
+          }
+        ],
+        "skills": [
+          "Block",
+          "Regeneration"
+        ]
+      },
+      {
+        "position": "Mummy",
+        "qty": "0-2",
+        "cost": 125,
+        "stats": [
+          {
+            "ma": 3,
+            "st": 5,
+            "ag": "5+",
+            "pa": "-",
+            "av": "9+"
+          }
+        ],
+        "skills": [
+          "Mighty Blow (+1)",
+          "Regeneration"
+        ]
+      }
+    ],
+    "rerolls": {
+      "cost": 70,
+      "qty": "0-8"
+    },
+    "apothecary": false
+  },
+  {
+    "name": "Skaven",
+    "description": "",
+    "players": [
+      {
+        "position": "Skaven Clanrat Linemen",
+        "qty": "0-16",
+        "cost": 50,
+        "stats": [
+          {
+            "ma": 7,
+            "st": 3,
+            "ag": "3+",
+            "pa": "4+",
+            "av": "8+"
+          }
+        ]
+      },
+      {
+        "position": "Throwers",
+        "qty": "0-2",
+        "cost": 85,
+        "stats": [
+          {
+            "ma": 7,
+            "st": 3,
+            "ag": "3+",
+            "pa": "2+",
+            "av": "8+"
+          }
+        ],
+        "skills": [
+          "Pass",
+          "Sure Hands"
+        ]
+      },
+      {
+        "position": "Gutter Runners",
+        "qty": "0-4",
+        "cost": 85,
+        "stats": [
+          {
+            "ma": 9,
+            "st": 2,
+            "ag": "2+",
+            "pa": "4+",
+            "av": "8+"
+          }
+        ],
+        "skills": [
+          "Dodge"
+        ]
+      },
+      {
+        "position": "Blitzers",
+        "qty": "0-2",
+        "cost": 90,
+        "stats": [
+          {
+            "ma": 7,
+            "st": 3,
+            "ag": "3+",
+            "pa": "5+",
+            "av": "9+"
+          }
+        ],
+        "skills": [
+          "Block"
+        ]
+      },
+      {
+        "position": "Rat Ogre",
+        "qty": "0-1",
+        "cost": 150,
+        "stats": [
+          {
+            "ma": 6,
+            "st": 5,
+            "ag": "4+",
+            "pa": "-",
+            "av": "9+"
+          }
+        ],
+        "skills": [
+          "Animal Savagery",
+          "Loner (4+)",
+          "Frenzy",
+          "Mighty Blow (+1)",
+          "Prehensile Tail"
+        ]
+      }
+    ],
+    "rerolls": {
+      "cost": 50,
+      "qty": "0-8"
+    },
+    "apothecary": true
+  },
+  {
+    "name": "Snotling",
+    "description": "",
+    "players": [
+      {
+        "position": "Snotling Lineman",
+        "qty": "0-16",
+        "cost": 15,
+        "stats": [
+          {
+            "ma": 5,
+            "st": 1,
+            "ag": "3+",
+            "pa": "5+",
+            "av": "6+"
+          }
+        ],
+        "skills": [
+          "Dodge",
+          "Right Stuff",
+          "Sidestep",
+          "Stunty",
+          "Swarming",
+          "Titchy"
+        ]
+      },
+      {
+        "position": "Fungus Flingas",
+        "qty": "0-2",
+        "cost": 30,
+        "stats": [
+          {
+            "ma": 5,
+            "st": 1,
+            "ag": "3+",
+            "pa": "4+",
+            "av": "6+"
+          }
+        ],
+        "skills": [
+          "Bombardier",
+          "Dodge",
+          "Right Stuff",
+          "Secret Weapon",
+          "Sidestep",
+          "Stunty"
+        ]
+      },
+      {
+        "position": "Fun-hoppas",
+        "qty": "0-2",
+        "cost": 20,
+        "stats": [
+          {
+            "ma": 6,
+            "st": 1,
+            "ag": "3+",
+            "pa": "5+",
+            "av": "6+"
+          }
+        ],
+        "skills": [
+          "Dodge",
+          "Pogo Stick",
+          "Right Stuff",
+          "Sidestep",
+          "Stunty"
+        ]
+      },
+      {
+        "position": "Stilty Runnas",
+        "qty": "0-2",
+        "cost": 20,
+        "stats": [
+          {
+            "ma": 6,
+            "st": 1,
+            "ag": "3+",
+            "pa": "5+",
+            "av": "6+"
+          }
+        ],
+        "skills": [
+          "Dodge",
+          "Right Stuff",
+          "Sidestep",
+          "Sprint",
+          "Stunty"
+        ]
+      },
+      {
+        "position": "Pump Wagons",
+        "qty": "0-2",
+        "cost": 150,
+        "stats": [
+          {
+            "ma": 4,
+            "st": 5,
+            "ag": "4+",
+            "pa": "-",
+            "av": "9+"
+          }
+        ],
+        "skills": [
+          "Dirty Player (+1)",
+          "Juggernaut",
+          "Mighty Blow (+1)",
+          "Really Stupid",
+          "Secret Weapon",
+          "Stand Firm"
+        ]
+      },
+      {
+        "position": "Trained Troll",
+        "qty": "0-2",
+        "cost": 115,
+        "stats": [
+          {
+            "ma": 4,
+            "st": 5,
+            "ag": "5+",
+            "pa": "5+",
+            "av": "10+"
+          }
+        ],
+        "skills": [
+          "Always Hungry",
+          "Loner (3+)",
+          "Mighty Blow (+1)",
+          "Projectile Vomit",
+          "Really Stupid",
+          "Regeneration",
+          "Throw Team-mate"
+        ]
+      }
+    ],
+    "rerolls": {
+      "cost": 60,
+      "qty": "0-8"
+    },
+    "apothecary": true
+  },
+  {
+    "name": "Underworld Denizens",
+    "description": "",
+    "players": [
+      {
+        "position": "Underworld Goblin Lineman",
+        "qty": "0-12",
+        "cost": 40,
+        "stats": [
+          {
+            "ma": 6,
+            "st": 2,
+            "ag": "3+",
+            "pa": "4+",
+            "av": "8+"
+          }
+        ],
+        "skills": [
+          "Dodge",
+          "Right Stuff",
+          "Stunty"
+        ]
+      },
+      {
+        "position": "Underworld Snotlings",
+        "qty": "0-6",
+        "cost": 15,
+        "stats": [
+          {
+            "ma": 5,
+            "st": 1,
+            "ag": "3+",
+            "pa": "5+",
+            "av": "6+"
+          }
+        ],
+        "skills": [
+          "Dodge",
+          "Right Stuff",
+          "Sidestep",
+          "Stunty",
+          "Swarming",
+          "Titchy"
+        ]
+      },
+      {
+        "position": "Skaven Clanrat",
+        "qty": "0-3",
+        "cost": 50,
+        "stats": [
+          {
+            "ma": 7,
+            "st": 3,
+            "ag": "3+",
+            "pa": "4+",
+            "av": "8+"
+          }
+        ],
+        "skills": [
+          "Animosity (Underworld Goblin Linemen)"
+        ]
+      },
+      {
+        "position": "Skaven Throwers",
+        "qty": "0-1",
+        "cost": 85,
+        "stats": [
+          {
+            "ma": 7,
+            "st": 3,
+            "ag": "3+",
+            "pa": "2+",
+            "av": "8+"
+          }
+        ],
+        "skills": [
+          "Animosity (Underworld Goblin Linemen)",
+          "Pass",
+          "Sure Hands"
+        ]
+      },
+      {
+        "position": "Gutter Runners",
+        "qty": "0-1",
+        "cost": 85,
+        "stats": [
+          {
+            "ma": 9,
+            "st": 2,
+            "ag": "2+",
+            "pa": "4+",
+            "av": "8+"
+          }
+        ],
+        "skills": [
+          "Animosity (Underworld Goblin Linemen)",
+          "Dodge"
+        ]
+      },
+      {
+        "position": "Skaven Blitzers",
+        "qty": "0-1",
+        "cost": 90,
+        "stats": [
+          {
+            "ma": 7,
+            "st": 3,
+            "ag": "3+",
+            "pa": "5+",
+            "av": "9+"
+          }
+        ],
+        "skills": [
+          "Animosity (Underworld Goblin Linemen)",
+          "Block"
+        ]
+      },
+      {
+        "position": "Underworld Troll",
+        "qty": "0-1",
+        "cost": 115,
+        "stats": [
+          {
+            "ma": 4,
+            "st": 5,
+            "ag": "5+",
+            "pa": "5+",
+            "av": "10+"
+          }
+        ],
+        "skills": [
+          "Always Hungry",
+          "Loner (4+)",
+          "Mighty Blow (+1)",
+          "Projectile Vomit",
+          "Really Stupid",
+          "Regeneration",
+          "Throw Team-mate"
+        ]
+      },
+      {
+        "position": "Mutant Rat Ogre",
+        "qty": "0-1",
+        "cost": 150,
+        "stats": [
+          {
+            "ma": 6,
+            "st": 5,
+            "ag": "4+",
+            "pa": "-",
+            "av": "9+"
+          }
+        ],
+        "skills": [
+          "Animal Savagery",
+          "Loner (4+)",
+          "Frenzy",
+          "Mighty Blow (+1)",
+          "Prehensile Tail"
+        ]
+      }
+    ],
+    "rerolls": {
+      "cost": 70,
+      "qty": "0-8"
+    },
+    "apothecary": true
+  },
+  {
+    "name": "Wood Elf Team",
+    "description": "",
+    "players": [
+      {
+        "position": "Wood Elf Linemen",
+        "qty": "0-12",
+        "cost": 70,
+        "stats": [
+          {
+            "ma": 7,
+            "st": 3,
+            "ag": "2+",
+            "pa": "4+",
+            "av": "8+"
+          }
+        ]
+      },
+      {
+        "position": "Throwers",
+        "qty": "0-6",
+        "cost": 95,
+        "stats": [
+          {
+            "ma": 7,
+            "st": 3,
+            "ag": "3+",
+            "pa": "2+",
+            "av": "8+"
+          }
+        ],
+        "skills": [
+          "Pass"
+        ]
+      },
+      {
+        "position": "Catchers",
+        "qty": "0-4",
+        "cost": 90,
+        "stats": [
+          {
+            "ma": 8,
+            "st": 2,
+            "ag": "2+",
+            "pa": "4+",
+            "av": "8+"
+          }
+        ],
+        "skills": [
+          "Catch",
+          "Dodge"
+        ]
+      },
+      {
+        "position": "Wardancers",
+        "qty": "0-1",
+        "cost": 125,
+        "stats": [
+          {
+            "ma": 8,
+            "st": 3,
+            "ag": "2+",
+            "pa": "4+",
+            "av": "8+"
+          }
+        ],
+        "skills": [
+          "Block",
+          "Dodge",
+          "Leap"
+        ]
+      },
+      {
+        "position": "Loren Forest Treeman",
+        "qty": "0-1",
+        "cost": 125,
+        "stats": [
+          {
+            "ma": 2,
+            "st": 6,
+            "ag": "5+",
+            "pa": "5+",
+            "av": "11+"
+          }
+        ],
+        "skills": [
+          "Loner (4+)",
+          "Mighty Blow (+1)",
+          "Stand Firm",
+          "Strong Arm",
+          "Take Root",
+          "Thick Skull",
+          "Throw Team-mate"
+        ]
+      }
+    ],
+    "rerolls": {
+      "cost": 50,
+      "qty": "0-8"
+    },
+    "apothecary": true
+  }
+]

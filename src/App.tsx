@@ -1,25 +1,32 @@
-import React from 'react';
-import logo from './logo.svg';
+import React, {lazy, Suspense} from 'react';
+import {BrowserRouter, HashRouter, Route, Router, Routes} from 'react-router-dom';
 import './App.css';
+import {Backdrop, Box, CircularProgress} from "@mui/material";
+
+const NavBar = lazy(() => import('./components/partial/NavBar'));
+const Home = lazy(() => import('./pages/Home'));
+const Manual = lazy(() => import('./pages/Manual'));
+const Team = lazy(() => import('./pages/Team'));
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React Test
-        </a>
-      </header>
-    </div>
+      <Box pb={5}>
+          <BrowserRouter>
+              <Suspense
+                  fallback={
+                      <Backdrop open={true}>
+                          <CircularProgress color="inherit" />
+                      </Backdrop>
+                  }>
+                  <Routes>
+                      <Route path="/" element={<Home />} />
+                      <Route path="/manual" element={<Manual />} />
+                      <Route path="/team" element={<Team />} />
+                  </Routes>
+                  <NavBar />
+              </Suspense>
+          </BrowserRouter>
+      </Box>
   );
 }
 
