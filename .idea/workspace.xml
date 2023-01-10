@@ -5,28 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6c243506-fc40-4e8c-acdf-d2c3caf7817b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/public/Manuale-BB2020-Ita-V3.0.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/bb.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/bg.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/logobb.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/news1.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/LatestNews.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/partial/NavBar.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/partial/SingleNewsPreview.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/partial/TeamDetails.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data/teams.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/Home.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/Manual.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/Team.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/serviceWorker.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils/helpers.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces/TeamInterface.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data/teams.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/teams.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Team.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Team.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/helpers.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/helpers.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,20 +30,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "ts.external.directory.path": "/Users/alex/Desktop/Alex/Projects/Privates/bloodbowl/node_modules/typescript/lib",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/Users/alex/Desktop/Alex/Projects/Privates/bloodbowl/node_modules/typescript/lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/utils" />
@@ -79,7 +62,9 @@
       <option name="presentableId" value="Default" />
       <updated>1672878187618</updated>
       <workItem from="1672878189057" duration="581000" />
-      <workItem from="1672878776134" duration="35100000" />
+      <workItem from="1672878776134" duration="49980000" />
+      <workItem from="1673251366737" duration="2000" />
+      <workItem from="1673273270155" duration="12072000" />
     </task>
     <servers />
   </component>

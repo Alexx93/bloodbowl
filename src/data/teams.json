@@ -6,7 +6,7 @@
       {
         "position": "Eagle Warrior Linemen",
         "qty": "0-16",
-        "cost": 50,
+        "cost": 50000,
         "stats": [
           {
             "ma": 6,
@@ -23,7 +23,7 @@
       {
         "position": "Python Warrior Throwers",
         "qty": "0-2",
-        "cost": 80,
+        "cost": 80000,
         "stats": [
           {
             "ma": 6,
@@ -43,7 +43,7 @@
       {
         "position": "Piranha Warrior Blitzers",
         "qty": "0-2",
-        "cost": 90,
+        "cost": 90000,
         "stats": [
           {
             "ma": 7,
@@ -62,7 +62,7 @@
       {
         "position": "Jaguar Warrior Blockers",
         "qty": "0-2",
-        "cost": 110,
+        "cost": 110000,
         "stats": [
           {
             "ma": 6,
@@ -79,7 +79,7 @@
       }
     ],
     "rerolls": {
-      "cost": 60,
+      "cost": 60000,
       "qty": "0-8"
     },
     "apothecary": true,
@@ -92,7 +92,7 @@
       {
         "position": "Goblin Bruiser",
         "qty": "0-12",
-        "cost": 45,
+        "cost": 45000,
         "stats": [
           {
             "ma": 6,
@@ -112,7 +112,7 @@
       {
         "position": "Black Orcs",
         "qty": "0-6",
-        "cost": 90,
+        "cost": 90000,
         "stats": [
           {
             "ma": 4,
@@ -129,7 +129,7 @@
       {
         "position": "Trained Troll",
         "qty": "0-1",
-        "cost": 115,
+        "cost": 115000,
         "stats": [
           {
             "ma": 4,
@@ -151,7 +151,7 @@
       }
     ],
     "rerolls": {
-      "cost": 60,
+      "cost": 60000,
       "qty": "0-8"
     },
     "apothecary": true,
@@ -164,7 +164,7 @@
       {
         "position": "Beastman",
         "qty": "0-16",
-        "cost": 60,
+        "cost": 60000,
         "stats": [
           {
             "ma": 6,
@@ -181,7 +181,7 @@
       {
         "position": "Choosen Blockers",
         "qty": "0-4",
-        "cost": 100,
+        "cost": 100000,
         "stats": [
           {
             "ma": 5,
@@ -195,7 +195,7 @@
       {
         "position": "Chaos Troll",
         "qty": "0-1",
-        "cost": 115,
+        "cost": 115000,
         "stats": [
           {
             "ma": 4,
@@ -219,7 +219,7 @@
       {
         "position": "Chaos Ogre",
         "qty": "0-1",
-        "cost": 140,
+        "cost": 140000,
         "stats": [
           {
             "ma": 5,
@@ -241,7 +241,7 @@
       {
         "position": "Minotaur",
         "qty": "0-1",
-        "cost": 150,
+        "cost": 150000,
         "stats": [
           {
             "ma": 5,
@@ -263,7 +263,7 @@
       }
     ],
     "rerolls": {
-      "cost": 60,
+      "cost": 60000,
       "qty": "0-8"
     },
     "apothecary": true,
@@ -277,7 +277,7 @@
       {
         "position": "Hobgoblin",
         "qty": "0-16",
-        "cost": 40,
+        "cost": 40000,
         "stats": [
           {
             "ma": 6,
@@ -291,7 +291,7 @@
       {
         "position": "Chaos Dwarf",
         "qty": "0-6",
-        "cost": 70,
+        "cost": 70000,
         "stats": [
           {
             "ma": 4,
@@ -310,7 +310,7 @@
       {
         "position": "Bull Centaur",
         "qty": "0-2",
-        "cost": 130,
+        "cost": 130000,
         "stats": [
           {
             "ma": 6,
@@ -329,7 +329,7 @@
       {
         "position": "Enslaved Minotaur",
         "qty": "0-1",
-        "cost": 150,
+        "cost": 150000,
         "stats": [
           {
             "ma": 5,
@@ -350,7 +350,7 @@
       }
     ],
     "rerolls": {
-      "cost": 70,
+      "cost": 70000,
       "qty": "0-8"
     },
     "apothecary": true
@@ -362,7 +362,7 @@
       {
         "position": "Lineman",
         "qty": "0-12",
-        "cost": 50,
+        "cost": 50000,
         "stats": [
           {
             "ma": 6,
@@ -376,7 +376,7 @@
       {
         "position": "Thrower",
         "qty": "0-1",
-        "cost": 75,
+        "cost": 75000,
         "stats": [
           {
             "ma": 6,
@@ -395,7 +395,7 @@
       {
         "position": "Goblin",
         "qty": "0-1",
-        "cost": 40,
+        "cost": 40000,
         "stats": [
           {
             "ma": 6,
@@ -415,7 +415,7 @@
       {
         "position": "Orc",
         "qty": "0-1",
-        "cost": 50,
+        "cost": 50000,
         "stats": [
           {
             "ma": 5,
@@ -432,7 +432,7 @@
       {
         "position": "Skaven",
         "qty": "0-1",
-        "cost": 50,
+        "cost": 50000,
         "stats": [
           {
             "ma": 7,
@@ -449,7 +449,7 @@
       {
         "position": "Dark Elf",
         "qty": "0-1",
-        "cost": 75,
+        "cost": 75000,
         "stats": [
           {
             "ma": 6,
@@ -466,7 +466,7 @@
       {
         "position": "Renegade Troll",
         "qty": "0-1",
-        "cost": 115,
+        "cost": 115000,
         "stats": [
           {
             "ma": 4,
@@ -488,7 +488,7 @@
       {
         "position": "Renegade Ogre",
         "qty": "0-1",
-        "cost": 140,
+        "cost": 140000,
         "stats": [
           {
             "ma": 5,
@@ -509,7 +509,7 @@
       {
         "position": "Renegade Minotaur",
         "qty": "0-1",
-        "cost": 150,
+        "cost": 150000,
         "stats": [
           {
             "ma": 5,
@@ -531,7 +531,7 @@
       {
         "position": "Renegade Rat Ogre",
         "qty": "0-1",
-        "cost": 150,
+        "cost": 150000,
         "stats": [
           {
             "ma": 6,
@@ -551,7 +551,7 @@
       }
     ],
     "rerolls": {
-      "cost": 70,
+      "cost": 70000,
       "qty": "0-8"
     },
     "apothecary": true
@@ -563,7 +563,7 @@
       {
         "position": "Linemen",
         "qty": "0-12",
-        "cost": 70,
+        "cost": 70000,
         "stats": [
           {
             "ma": 6,
@@ -577,7 +577,7 @@
       {
         "position": "Runner",
         "qty": "0-2",
-        "cost": 80,
+        "cost": 80000,
         "stats": [
           {
             "ma": 7,
@@ -594,7 +594,7 @@
       {
         "position": "Blitzer",
         "qty": "0-4",
-        "cost": 100,
+        "cost": 100000,
         "stats": [
           {
             "ma": 7,
@@ -611,7 +611,7 @@
       {
         "position": "Assassin",
         "qty": "0-2",
-        "cost": 85,
+        "cost": 85000,
         "stats": [
           {
             "ma": 7,
@@ -629,7 +629,7 @@
       }
     ],
     "rerolls": {
-      "cost": 50,
+      "cost": 50000,
       "qty": "0-8"
     },
     "apothecary": true
@@ -641,7 +641,7 @@
       {
         "position": "Linemen",
         "qty": "0-12",
-        "cost": 70,
+        "cost": 70000,
         "stats": [
           {
             "ma": 4,
@@ -660,7 +660,7 @@
       {
         "position": "Runner",
         "qty": "0-2",
-        "cost": 85,
+        "cost": 85000,
         "stats": [
           {
             "ma": 6,
@@ -678,7 +678,7 @@
       {
         "position": "Blitzer",
         "qty": "0-2",
-        "cost": 80,
+        "cost": 80000,
         "stats": [
           {
             "ma": 5,
@@ -696,7 +696,7 @@
       {
         "position": "Troll Slayer",
         "qty": "0-2",
-        "cost": 170,
+        "cost": 170000,
         "stats": [
           {
             "ma": 4,
@@ -719,7 +719,7 @@
       }
     ],
     "rerolls": {
-      "cost": 50,
+      "cost": 50000,
       "qty": "0-8"
     },
     "apothecary": true
@@ -731,7 +731,7 @@
       {
         "position": "Linemen",
         "qty": "0-12",
-        "cost": 60,
+        "cost": 60000,
         "stats": [
           {
             "ma": 6,
@@ -745,7 +745,7 @@
       {
         "position": "Thrower",
         "qty": "0-2",
-        "cost": 75,
+        "cost": 75000,
         "stats": [
           {
             "ma": 6,
@@ -762,7 +762,7 @@
       {
         "position": "Catcher",
         "qty": "0-4",
-        "cost": 100,
+        "cost": 100000,
         "stats": [
           {
             "ma": 8,
@@ -780,7 +780,7 @@
       {
         "position": "Blitzers",
         "qty": "0-2",
-        "cost": 115,
+        "cost": 115000,
         "stats": [
           {
             "ma": 7,
@@ -797,7 +797,7 @@
       }
     ],
     "rerolls": {
-      "cost": 50,
+      "cost": 50000,
       "qty": "0-8"
     },
     "apothecary": true
@@ -809,7 +809,7 @@
       {
         "position": "Linemen",
         "qty": "0-12",
-        "cost": 40,
+        "cost": 40000,
         "stats": [
           {
             "ma": 6,
@@ -828,7 +828,7 @@
       {
         "position": "Bomma",
         "qty": "0-1",
-        "cost": 45,
+        "cost": 45000,
         "stats": [
           {
             "ma": 6,
@@ -848,7 +848,7 @@
       {
         "position": "Looney",
         "qty": "0-1",
-        "cost": 40,
+        "cost": 40000,
         "stats": [
           {
             "ma": 6,
@@ -867,7 +867,7 @@
       {
         "position": "Fanatic",
         "qty": "0-1",
-        "cost": 70,
+        "cost": 70000,
         "stats": [
           {
             "ma": 3,
@@ -887,7 +887,7 @@
       {
         "position": "Pogoer",
         "qty": "0-1",
-        "cost": 75,
+        "cost": 75000,
         "stats": [
           {
             "ma": 7,
@@ -906,7 +906,7 @@
       {
         "position": "Ooligan",
         "qty": "0-1",
-        "cost": 65,
+        "cost": 65000,
         "stats": [
           {
             "ma": 6,
@@ -927,7 +927,7 @@
       {
         "position": "Doom Diver",
         "qty": "0-1",
-        "cost": 60,
+        "cost": 60000,
         "stats": [
           {
             "ma": 6,
@@ -946,7 +946,7 @@
       {
         "position": "Trained Troll",
         "qty": "0-1",
-        "cost": 115,
+        "cost": 115000,
         "stats": [
           {
             "ma": 4,
@@ -968,7 +968,7 @@
       }
     ],
     "rerolls": {
-      "cost": 60,
+      "cost": 60000,
       "qty": "0-8"
     },
     "apothecary": true
@@ -980,7 +980,7 @@
       {
         "position": "Hopeful",
         "qty": "0-12",
-        "cost": 30,
+        "cost": 30000,
         "stats": [
           {
             "ma": 5,
@@ -999,7 +999,7 @@
       {
         "position": "Hefti",
         "qty": "0-2",
-        "cost": 50,
+        "cost": 50000,
         "stats": [
           {
             "ma": 5,
@@ -1018,7 +1018,7 @@
       {
         "position": "Catcher",
         "qty": "0-2",
-        "cost": 55,
+        "cost": 55000,
         "stats": [
           {
             "ma": 5,
@@ -1039,7 +1039,7 @@
       {
         "position": "Altern Forest Treeman",
         "qty": "0-2",
-        "cost": 120,
+        "cost": 120000,
         "stats": [
           {
             "ma": 2,
@@ -1061,7 +1061,7 @@
       }
     ],
     "rerolls": {
-      "cost": 60,
+      "cost": 60000,
       "qty": "0-8"
     },
     "apothecary": true
@@ -1073,7 +1073,7 @@
       {
         "position": "Lineman",
         "qty": "0-16",
-        "cost": 70,
+        "cost": 70000,
         "stats": [
           {
             "ma": 6,
@@ -1087,7 +1087,7 @@
       {
         "position": "Thrower",
         "qty": "0-2",
-        "cost": 100,
+        "cost": 100000,
         "stats": [
           {
             "ma": 6,
@@ -1106,7 +1106,7 @@
       {
         "position": "Catcher",
         "qty": "0-4",
-        "cost": 90,
+        "cost": 90000,
         "stats": [
           {
             "ma": 8,
@@ -1123,7 +1123,7 @@
       {
         "position": "Blitzer",
         "qty": "0-2",
-        "cost": 100,
+        "cost": 100000,
         "stats": [
           {
             "ma": 7,
@@ -1139,7 +1139,7 @@
       }
     ],
     "rerolls": {
-      "cost": 50,
+      "cost": 50000,
       "qty": "0-8"
     },
     "apothecary": true
@@ -1151,7 +1151,7 @@
       {
         "position": "Lineman",
         "qty": "0-16",
-        "cost": 50,
+        "cost": 50000,
         "stats": [
           {
             "ma": 6,
@@ -1165,7 +1165,7 @@
       {
         "position": "Thrower",
         "qty": "0-2",
-        "cost": 80,
+        "cost": 80000,
         "stats": [
           {
             "ma": 6,
@@ -1183,7 +1183,7 @@
       {
         "position": "Catcher",
         "qty": "0-4",
-        "cost": 65,
+        "cost": 65000,
         "stats": [
           {
             "ma": 8,
@@ -1201,7 +1201,7 @@
       {
         "position": "Blitzer",
         "qty": "0-4",
-        "cost": 85,
+        "cost": 85000,
         "stats": [
           {
             "ma": 7,
@@ -1218,7 +1218,7 @@
       {
         "position": "Halfling",
         "qty": "0-3",
-        "cost": 30,
+        "cost": 30000,
         "stats": [
           {
             "ma": 5,
@@ -1237,7 +1237,7 @@
       {
         "position": "Ogre",
         "qty": "0-4",
-        "cost": 85,
+        "cost": 85000,
         "stats": [
           {
             "ma": 5,
@@ -1257,7 +1257,7 @@
       }
     ],
     "rerolls": {
-      "cost": 50,
+      "cost": 50000,
       "qty": "0-8"
     },
     "apothecary": true
@@ -1269,7 +1269,7 @@
       {
         "position": "Retainer Lineman",
         "qty": "0-12",
-        "cost": 45,
+        "cost": 45000,
         "stats": [
           {
             "ma": 6,
@@ -1286,7 +1286,7 @@
       {
         "position": "Thrower",
         "qty": "0-2",
-        "cost": 75,
+        "cost": 75000,
         "stats": [
           {
             "ma": 6,
@@ -1304,7 +1304,7 @@
       {
         "position": "Noble Blitzer",
         "qty": "0-2",
-        "cost": 105,
+        "cost": 105000,
         "stats": [
           {
             "ma": 7,
@@ -1322,7 +1322,7 @@
       {
         "position": "Bodyguards",
         "qty": "0-4",
-        "cost": 90,
+        "cost": 90000,
         "stats": [
           {
             "ma": 6,
@@ -1340,7 +1340,7 @@
       {
         "position": "Ogre",
         "qty": "0-1",
-        "cost": 140,
+        "cost": 140000,
         "stats": [
           {
             "ma": 5,
@@ -1360,7 +1360,7 @@
       }
     ],
     "rerolls": {
-      "cost": 70,
+      "cost": 70000,
       "qty": "0-8"
     },
     "apothecary": true
@@ -1372,7 +1372,7 @@
       {
         "position": "Bloodborn Marauder Linemen",
         "qty": "0-16",
-        "cost": 50,
+        "cost": 50000,
         "stats": [
           {
             "ma": 6,
@@ -1389,7 +1389,7 @@
       {
         "position": "Khorngors",
         "qty": "0-4",
-        "cost": 70,
+        "cost": 70000,
         "stats": [
           {
             "ma": 6,
@@ -1407,7 +1407,7 @@
       {
         "position": "Bloodseekers",
         "qty": "0-4",
-        "cost": 110,
+        "cost": 110000,
         "stats": [
           {
             "ma": 5,
@@ -1424,7 +1424,7 @@
       {
         "position": "Bloodspawn",
         "qty": "0-1",
-        "cost": 160,
+        "cost": 160000,
         "stats": [
           {
             "ma": 5,
@@ -1444,7 +1444,7 @@
       }
     ],
     "rerolls": {
-      "cost": 60,
+      "cost": 60000,
       "qty": "0-8"
     },
     "apothecary": true
@@ -1456,7 +1456,7 @@
       {
         "position": "Skink",
         "qty": "0-16",
-        "cost": 60,
+        "cost": 60000,
         "stats": [
           {
             "ma": 8,
@@ -1473,7 +1473,7 @@
       {
         "position": "Chameleon Skink",
         "qty": "0-2",
-        "cost": 70,
+        "cost": 70000,
         "stats": [
           {
             "ma": 7,
@@ -1493,7 +1493,7 @@
       {
         "position": "Saurus",
         "qty": "0-6",
-        "cost": 85,
+        "cost": 85000,
         "stats": [
           {
             "ma": 6,
@@ -1507,7 +1507,7 @@
       {
         "position": "Kroxigor",
         "qty": "0-1",
-        "cost": 160,
+        "cost": 160000,
         "stats": [
           {
             "ma": 6,
@@ -1527,7 +1527,7 @@
       }
     ],
     "rerolls": {
-      "cost": 70,
+      "cost": 70000,
       "qty": "0-8"
     },
     "apothecary": true
@@ -1539,7 +1539,7 @@
       {
         "position": "Zombie",
         "qty": "0-16",
-        "cost": 40,
+        "cost": 40000,
         "stats": [
           {
             "ma": 4,
@@ -1556,7 +1556,7 @@
       {
         "position": "Ghoul Runners",
         "qty": "0-2",
-        "cost": 70,
+        "cost": 70000,
         "stats": [
           {
             "ma": 7,
@@ -1573,7 +1573,7 @@
       {
         "position": "Wraith",
         "qty": "0-2",
-        "cost": 95,
+        "cost": 95000,
         "stats": [
           {
             "ma": 6,
@@ -1594,7 +1594,7 @@
       {
         "position": "Werewolf",
         "qty": "0-2",
-        "cost": 125,
+        "cost": 125000,
         "stats": [
           {
             "ma": 8,
@@ -1613,7 +1613,7 @@
       {
         "position": "Flesh Golem",
         "qty": "0-1",
-        "cost": 115,
+        "cost": 115000,
         "stats": [
           {
             "ma": 4,
@@ -1631,7 +1631,7 @@
       }
     ],
     "rerolls": {
-      "cost": 70,
+      "cost": 70000,
       "qty": "0-8"
     },
     "apothecary": false
@@ -1643,7 +1643,7 @@
       {
         "position": "Norse Raider Lineman",
         "qty": "0-16",
-        "cost": 50,
+        "cost": 50000,
         "stats": [
           {
             "ma": 6,
@@ -1662,7 +1662,7 @@
       {
         "position": "Beer Boars",
         "qty": "0-2",
-        "cost": 20,
+        "cost": 20000,
         "stats": [
           {
             "ma": 5,
@@ -1683,7 +1683,7 @@
       {
         "position": "Norse Berserker",
         "qty": "0-2",
-        "cost": 90,
+        "cost": 90000,
         "stats": [
           {
             "ma": 6,
@@ -1702,7 +1702,7 @@
       {
         "position": "Valkyrie",
         "qty": "0-2",
-        "cost": 95,
+        "cost": 95000,
         "stats": [
           {
             "ma": 7,
@@ -1722,7 +1722,7 @@
       {
         "position": "Ulfwerener",
         "qty": "0-2",
-        "cost": 105,
+        "cost": 105000,
         "stats": [
           {
             "ma": 6,
@@ -1739,7 +1739,7 @@
       {
         "position": "Yhetee / Snow Troll",
         "qty": "0-1",
-        "cost": 140,
+        "cost": 140000,
         "stats": [
           {
             "ma": 5,
@@ -1759,7 +1759,7 @@
       }
     ],
     "rerolls": {
-      "cost": 60,
+      "cost": 60000,
       "qty": "0-8"
     },
     "apothecary": true
@@ -1771,7 +1771,7 @@
       {
         "position": "Rotter",
         "qty": "0-12",
-        "cost": 35,
+        "cost": 35000,
         "stats": [
           {
             "ma": 5,
@@ -1789,7 +1789,7 @@
       {
         "position": "Pestigor",
         "qty": "0-4",
-        "cost": 75,
+        "cost": 75000,
         "stats": [
           {
             "ma": 6,
@@ -1808,7 +1808,7 @@
       {
         "position": "Bloater",
         "qty": "0-4",
-        "cost": 115,
+        "cost": 115000,
         "stats": [
           {
             "ma": 4,
@@ -1828,7 +1828,7 @@
       {
         "position": "Rotspawn",
         "qty": "0-1",
-        "cost": 140,
+        "cost": 140000,
         "stats": [
           {
             "ma": 4,
@@ -1851,7 +1851,7 @@
       }
     ],
     "rerolls": {
-      "cost": 70,
+      "cost": 70000,
       "qty": "0-8"
     },
     "apothecary": false
@@ -1863,7 +1863,7 @@
       {
         "position": "Gnoblar",
         "qty": "0-16",
-        "cost": 15,
+        "cost": 15000,
         "stats": [
           {
             "ma": 5,
@@ -1883,7 +1883,7 @@
       {
         "position": "Runt Punter",
         "qty": "0-1",
-        "cost": 145,
+        "cost": 145000,
         "stats": [
           {
             "ma": 5,
@@ -1903,7 +1903,7 @@
       {
         "position": "Ogre",
         "qty": "0-5",
-        "cost": 140,
+        "cost": 140000,
         "stats": [
           {
             "ma": 5,
@@ -1922,7 +1922,7 @@
       }
     ],
     "rerolls": {
-      "cost": 70,
+      "cost": 70000,
       "qty": "0-8"
     },
     "apothecary": true
@@ -1934,7 +1934,7 @@
       {
         "position": "Human Lineman",
         "qty": "0-12",
-        "cost": 50,
+        "cost": 50000,
         "stats": [
           {
             "ma": 6,
@@ -1948,7 +1948,7 @@
       {
         "position": "Human Thrower",
         "qty": "0-1",
-        "cost": 80,
+        "cost": 80000,
         "stats": [
           {
             "ma": 6,
@@ -1967,7 +1967,7 @@
       {
         "position": "Human Catcher",
         "qty": "0-1",
-        "cost": 65,
+        "cost": 65000,
         "stats": [
           {
             "ma": 8,
@@ -1986,7 +1986,7 @@
       {
         "position": "Human Blitzer",
         "qty": "0-1",
-        "cost": 90,
+        "cost": 90000,
         "stats": [
           {
             "ma": 7,
@@ -2004,7 +2004,7 @@
       {
         "position": "Dwarf Blocker",
         "qty": "0-2",
-        "cost": 75,
+        "cost": 75000,
         "stats": [
           {
             "ma": 4,
@@ -2024,7 +2024,7 @@
       {
         "position": "Dwarf Runner",
         "qty": "0-1",
-        "cost": 85,
+        "cost": 85000,
         "stats": [
           {
             "ma": 6,
@@ -2043,7 +2043,7 @@
       {
         "position": "Dwarf Blitzer",
         "qty": "0-1",
-        "cost": 80,
+        "cost": 80000,
         "stats": [
           {
             "ma": 5,
@@ -2062,7 +2062,7 @@
       {
         "position": "Troll Slayer",
         "qty": "0-1",
-        "cost": 95,
+        "cost": 95000,
         "stats": [
           {
             "ma": 5,
@@ -2083,7 +2083,7 @@
       {
         "position": "Halfling",
         "qty": "0-1",
-        "cost": 50,
+        "cost": 50000,
         "stats": [
           {
             "ma": 5,
@@ -2103,7 +2103,7 @@
       {
         "position": "Ogre",
         "qty": "0-1",
-        "cost": 140,
+        "cost": 140000,
         "stats": [
           {
             "ma": 5,
@@ -2124,7 +2124,7 @@
       {
         "position": "Altern Forest Treeman",
         "qty": "0-1",
-        "cost": 120,
+        "cost": 120000,
         "stats": [
           {
             "ma": 2,
@@ -2147,7 +2147,7 @@
       }
     ],
     "rerolls": {
-      "cost": 70,
+      "cost": 70000,
       "qty": "0-8"
     },
     "apothecary": true
@@ -2159,7 +2159,7 @@
       {
         "position": "Lineman",
         "qty": "0-16",
-        "cost": 50,
+        "cost": 50000,
         "stats": [
           {
             "ma": 5,
@@ -2176,7 +2176,7 @@
       {
         "position": "Thrower",
         "qty": "0-2",
-        "cost": 65,
+        "cost": 65000,
         "stats": [
           {
             "ma": 5,
@@ -2195,7 +2195,7 @@
       {
         "position": "Blitzer",
         "qty": "0-4",
-        "cost": 80,
+        "cost": 80000,
         "stats": [
           {
             "ma": 6,
@@ -2213,7 +2213,7 @@
       {
         "position": "Big Un",
         "qty": "0-4",
-        "cost": 90,
+        "cost": 90000,
         "stats": [
           {
             "ma": 5,
@@ -2230,7 +2230,7 @@
       {
         "position": "Goblin",
         "qty": "0-4",
-        "cost": 40,
+        "cost": 40000,
         "stats": [
           {
             "ma": 6,
@@ -2249,7 +2249,7 @@
       {
         "position": "Untrained Troll",
         "qty": "0-1",
-        "cost": 115,
+        "cost": 115000,
         "stats": [
           {
             "ma": 4,
@@ -2271,7 +2271,7 @@
       }
     ],
     "rerolls": {
-      "cost": 60,
+      "cost": 60000,
       "qty": "0-8"
     },
     "apothecary": true
@@ -2283,7 +2283,7 @@
       {
         "position": "Skeleton",
         "qty": "0-12",
-        "cost": 40,
+        "cost": 40000,
         "stats": [
           {
             "ma": 5,
@@ -2301,7 +2301,7 @@
       {
         "position": "Zombie",
         "qty": "0-12",
-        "cost": 40,
+        "cost": 40000,
         "stats": [
           {
             "ma": 4,
@@ -2318,7 +2318,7 @@
       {
         "position": "Ghoul",
         "qty": "0-4",
-        "cost": 75,
+        "cost": 75000,
         "stats": [
           {
             "ma": 7,
@@ -2335,7 +2335,7 @@
       {
         "position": "Wight",
         "qty": "0-2",
-        "cost": 90,
+        "cost": 90000,
         "stats": [
           {
             "ma": 6,
@@ -2353,7 +2353,7 @@
       {
         "position": "Mummy",
         "qty": "0-2",
-        "cost": 125,
+        "cost": 125000,
         "stats": [
           {
             "ma": 3,
@@ -2370,7 +2370,7 @@
       }
     ],
     "rerolls": {
-      "cost": 70,
+      "cost": 70000,
       "qty": "0-8"
     },
     "apothecary": false
@@ -2382,7 +2382,7 @@
       {
         "position": "Skaven Clanrat Linemen",
         "qty": "0-16",
-        "cost": 50,
+        "cost": 50000,
         "stats": [
           {
             "ma": 7,
@@ -2396,7 +2396,7 @@
       {
         "position": "Throwers",
         "qty": "0-2",
-        "cost": 85,
+        "cost": 85000,
         "stats": [
           {
             "ma": 7,
@@ -2414,7 +2414,7 @@
       {
         "position": "Gutter Runners",
         "qty": "0-4",
-        "cost": 85,
+        "cost": 85000,
         "stats": [
           {
             "ma": 9,
@@ -2431,7 +2431,7 @@
       {
         "position": "Blitzers",
         "qty": "0-2",
-        "cost": 90,
+        "cost": 90000,
         "stats": [
           {
             "ma": 7,
@@ -2468,7 +2468,7 @@
       }
     ],
     "rerolls": {
-      "cost": 50,
+      "cost": 50000,
       "qty": "0-8"
     },
     "apothecary": true
@@ -2480,7 +2480,7 @@
       {
         "position": "Snotling Lineman",
         "qty": "0-16",
-        "cost": 15,
+        "cost": 15000,
         "stats": [
           {
             "ma": 5,
@@ -2502,7 +2502,7 @@
       {
         "position": "Fungus Flingas",
         "qty": "0-2",
-        "cost": 30,
+        "cost": 30000,
         "stats": [
           {
             "ma": 5,
@@ -2524,7 +2524,7 @@
       {
         "position": "Fun-hoppas",
         "qty": "0-2",
-        "cost": 20,
+        "cost": 20000,
         "stats": [
           {
             "ma": 6,
@@ -2545,7 +2545,7 @@
       {
         "position": "Stilty Runnas",
         "qty": "0-2",
-        "cost": 20,
+        "cost": 20000,
         "stats": [
           {
             "ma": 6,
@@ -2566,7 +2566,7 @@
       {
         "position": "Pump Wagons",
         "qty": "0-2",
-        "cost": 150,
+        "cost": 150000,
         "stats": [
           {
             "ma": 4,
@@ -2588,7 +2588,7 @@
       {
         "position": "Trained Troll",
         "qty": "0-2",
-        "cost": 115,
+        "cost": 115000,
         "stats": [
           {
             "ma": 4,
@@ -2610,7 +2610,7 @@
       }
     ],
     "rerolls": {
-      "cost": 60,
+      "cost": 60000,
       "qty": "0-8"
     },
     "apothecary": true
@@ -2622,7 +2622,7 @@
       {
         "position": "Underworld Goblin Lineman",
         "qty": "0-12",
-        "cost": 40,
+        "cost": 40000,
         "stats": [
           {
             "ma": 6,
@@ -2641,7 +2641,7 @@
       {
         "position": "Underworld Snotlings",
         "qty": "0-6",
-        "cost": 15,
+        "cost": 15000,
         "stats": [
           {
             "ma": 5,
@@ -2663,7 +2663,7 @@
       {
         "position": "Skaven Clanrat",
         "qty": "0-3",
-        "cost": 50,
+        "cost": 50000,
         "stats": [
           {
             "ma": 7,
@@ -2680,7 +2680,7 @@
       {
         "position": "Skaven Throwers",
         "qty": "0-1",
-        "cost": 85,
+        "cost": 85000,
         "stats": [
           {
             "ma": 7,
@@ -2699,7 +2699,7 @@
       {
         "position": "Gutter Runners",
         "qty": "0-1",
-        "cost": 85,
+        "cost": 85000,
         "stats": [
           {
             "ma": 9,
@@ -2717,7 +2717,7 @@
       {
         "position": "Skaven Blitzers",
         "qty": "0-1",
-        "cost": 90,
+        "cost": 90000,
         "stats": [
           {
             "ma": 7,
@@ -2735,7 +2735,7 @@
       {
         "position": "Underworld Troll",
         "qty": "0-1",
-        "cost": 115,
+        "cost": 115000,
         "stats": [
           {
             "ma": 4,
@@ -2758,7 +2758,7 @@
       {
         "position": "Mutant Rat Ogre",
         "qty": "0-1",
-        "cost": 150,
+        "cost": 150000,
         "stats": [
           {
             "ma": 6,
@@ -2778,7 +2778,7 @@
       }
     ],
     "rerolls": {
-      "cost": 70,
+      "cost": 70000,
       "qty": "0-8"
     },
     "apothecary": true
@@ -2790,7 +2790,7 @@
       {
         "position": "Wood Elf Linemen",
         "qty": "0-12",
-        "cost": 70,
+        "cost": 70000,
         "stats": [
           {
             "ma": 7,
@@ -2804,7 +2804,7 @@
       {
         "position": "Throwers",
         "qty": "0-6",
-        "cost": 95,
+        "cost": 95000,
         "stats": [
           {
             "ma": 7,
@@ -2821,7 +2821,7 @@
       {
         "position": "Catchers",
         "qty": "0-4",
-        "cost": 90,
+        "cost": 90000,
         "stats": [
           {
             "ma": 8,
@@ -2839,7 +2839,7 @@
       {
         "position": "Wardancers",
         "qty": "0-1",
-        "cost": 125,
+        "cost": 125000,
         "stats": [
           {
             "ma": 8,
@@ -2858,7 +2858,7 @@
       {
         "position": "Loren Forest Treeman",
         "qty": "0-1",
-        "cost": 125,
+        "cost": 125000,
         "stats": [
           {
             "ma": 2,
@@ -2880,7 +2880,7 @@
       }
     ],
     "rerolls": {
-      "cost": 50,
+      "cost": 50000,
       "qty": "0-8"
     },
     "apothecary": true

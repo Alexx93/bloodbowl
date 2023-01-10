@@ -1,6 +1,5 @@
 import React from "react";
 import TeamsData from "../data/teams.json";
-import axios from "axios";
 
 export const getAllTeams = (): any[] => {
     return TeamsData
